@@ -1,7 +1,7 @@
 def cube(a=2):
 
     cube=a**3
-    print(" The cube of the nuber is ",cube)
+    print(" The cube of the number is ",cube)
 
 
 def checkchar( a, b):
